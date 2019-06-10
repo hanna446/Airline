@@ -1,0 +1,3 @@
+apply plugin: 'com.android.application'
+
+    android {compileSdkVersion 27defaultConfig {applicationId "com.example.expoandroid3"minSdkVersion 15targetSdkVersion 27versionCode 1versionName "1.0"testIn
